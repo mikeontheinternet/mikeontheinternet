@@ -2,7 +2,7 @@
 - 👀 I’m interested in football ⚽, music 🎵, and video games 🎮
 - 🌱 I’m currently learning C++ and Python!
 - 😄 Pronouns: he/him/his
-- 🛠️ I'm currently building: a board game randomizer
+- 🛠️ I'm currently building: an RPG with a friend
 
 <!---
 mikeontheinternet/mikeontheinternet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
